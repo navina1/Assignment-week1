@@ -1,0 +1,9 @@
+.child{
+    position: absolute;
+    left: 30px;
+    border: 1px black solid;
+    top:30px;
+}
+.main{
+    position: relative;
+}
